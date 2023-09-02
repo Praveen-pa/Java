@@ -1,0 +1,10 @@
+import java.io.*;
+import java.util.*;
+
+class nthsmallest{
+public static void main(Strings[] args){
+int[] a=new int[10];
+int i;
+Scanner s=new Scanner(System.in);
+System.out.println("Enter the Elements :")
+for(i=0;i<
